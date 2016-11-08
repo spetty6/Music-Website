@@ -1,0 +1,151 @@
+h1 {
+color:white;
+}
+
+body{
+background-color: black;
+color: white;
+}
+
+#nav{
+display: inline;
+width: 60px;
+color: black; 
+}
+
+li {
+display: inline;
+padding: 10pt;
+border: 2px solid black;
+color: black;
+}
+
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+background-color: white;
+font-weight: bold;
+}
+
+#chris{
+color:white;
+}
+
+#par1{
+color: white
+font-size: 12pt;
+
+}
+
+#pics {
+float:right;
+width: 500px;
+position: relative;
+}
+
+.top{
+float: left;
+}
+
+
+
+#events{
+float: left;
+width: 500px;
+position: relative;
+}
+
+.pic{
+padding-right:30px;
+padding-bottom:50px;
+float: left;
+}
+
+#information{
+float:left;
+clear: both;
+
+
+}
+
+
+
+#fix{
+margin:0 auto;
+width:960px;
+padding: 20px;
+}
+
+#big{
+border: solid 5px black;
+padding: 5px;
+}
+
+
+
+
+
+#brad{
+color: white;
+}
+
+
+#famouz {
+color: white;
+}
+
+
+#another{
+color: white;
+}
+
+p{color:white;
+}
+
+
+
+h2{
+text-align: center;
+text-decoration: underline;
+color: white;
+}
+
+fieldset {
+background-color: grey;
+width: 200em;
+height: 12em;
+align: left;
+}
+
+form { font family: "Times New Roman", sans-serif;
+color:white;
+}
+
+input {margin-bottom: 0.5em;}
+
+input[type="submit"] {
+font-weight: bold;
+margin-left: 10em;}
+
+label.heading {
+float: left;
+margin-right: 1em;
+text-align: right;
+width:7em
+}
+
+legend {
+background-color: white;
+border: 1 px solid black;
+padding: 0.5em;
+color: black;
+font-weight: bold;
+font-size: 1em;
+}
+
+#fan{
+clear: both;
+}
+
+
